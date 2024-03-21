@@ -5,6 +5,11 @@
     padding-bottom: 0px;
 }
 
+/* Sections Headers */
+h2, h3 {
+    text-align: center;
+}
+
 .charsheet input {
     display: inline-block;
     width: 155px;
